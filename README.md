@@ -9,6 +9,7 @@ C. E. Herman, L. Min, L. H. Choe, R. W. Maurer, X. Xu, S. Ghose, K. H. Lee, A. M
 
 ## DLS
 - Size analysis of SEC aggregate and mAb fractions as well as unfractionated feedstocks
+- This makes use of the [pyilt](https://github.com/caizkun/pyilt) package
 
 ## Proteomics
 - Scripts for processing proteomics data
