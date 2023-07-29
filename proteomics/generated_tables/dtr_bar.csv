@@ -1,0 +1,14 @@
+name,std_unique,intersection,native_unique,std_total,native_total
+HCCF $\bigcup$ PAVIN,12,189,30,201,219
+HCCF Union,15,185,26,200,211
+HCCF Feed,5,134,39,139,173
+HCCF Large agg.,10,134,40,144,174
+HCCF Small agg.,5,127,33,132,160
+HCCF mAb,1,81,49,82,130
+HCCF SPF 1,12,134,21,146,155
+HCCF SPF 2,137,0,0,137,0
+PAVIN Union,2,116,59,118,175
+PAVIN Feed,1,8,44,9,52
+PAVIN Large agg.,4,114,55,118,169
+PAVIN Small agg.,2,52,75,54,127
+PAVIN mAb,0,0,2,0,2

@@ -1,0 +1,49 @@
+I'm accepting more specific versions of the DTR proteins, but not alternative isoforms
+
+Accession number degeneracy corresponding to a single name
+7 proteins with 2 accession IDs, 1 with three
+MLV-related proviral Env polyprotein-like (XP_027289999.1, XP_027288341.1, XP_027284602.1)
+
+My amino acid substitution rules
+{
+    'B':'D',
+    'Z':'E',
+    'X':'A',
+    'J':'L'
+}
+
+Precursor/pro-proteins
+transforming growth factor beta-1 proprotein isoform X2
+matrix metalloproteinase-14 precursor
+
+
+Isoform inclusion with non-specific literature names (which increases
+the apparent number of common HCPs that I found, e.g.)
+glutathione S-transferase Y1 isoform X2 = glutathione s-transferase
+glutathione S-transferase Mu 6 = glutathione s-transferase mu 6
+lysosomal Pro-X carboxypeptidase isoform X2 = carboxypeptidase
+putative phospholipase B-like 2 = phospholipase b-like 2
+
+^ Close calls that were included
+group XV phospholipase A2 isoform X2 = lipase
+lysophospholipase-like protein 1 isoform X2  = lipase
+peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 isoform X2 = peptidyl-prolyl cis-trans isomerase
+
+^ -type/-like/-related proteins that were included (with the exception of ubiquitin-like species)
+vimentin-type intermediate filament-associated coiled-coil protein isoform X2 = vimentin
+serpin B6-like = serpin b6
+galectin-related protein isoform X2 = galectin
+drebrin-like protein isoform X2 = drebrin
+
+
+Isoform inclusion with non-specific name in my data
+transgelin = transgelin-2
+histone H2B type 1 = histone h2b type 1-n
+
+
+Exclusion of binding partners, receptors, recognition factors, activating proteins, inhibitors, conjugating factors, etc.
+galectin-3-binding protein != galectin-3
+
+
+
+
