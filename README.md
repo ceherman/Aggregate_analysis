@@ -1,4 +1,4 @@
-# mAb_aggregate_analysis
+# Analysis of HCP-rich aggregates in mAb solutions
 
 This repository contains information relevant to the manuscript
 
