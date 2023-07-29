@@ -1,0 +1,3 @@
+pafvin-s concentration is very approximate
+pafvin-mAb in sec buffer
+hccf-lmw1 is 100 ul of std digest buffer, 300 ul of conjugation buffer

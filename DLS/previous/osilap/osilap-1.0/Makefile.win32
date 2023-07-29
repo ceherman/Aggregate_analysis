@@ -1,0 +1,19 @@
+CC      = i686-w64-mingw32-gcc
+FC      = i686-w64-mingw32-gfortran
+CFLAGS  = -O2 -Wall
+LIBS    = libopenblas-win32.a -lpthread -static-libgcc -Wl,-Bstatic -lgfortran -lquadmath -Wl,-Bdynamic -lm
+ 
+LDFLAGS = 
+OBJS    = ilt.o nnls.o command.o output.o input.o BRDnewton_modify.o alpha_loop.o
+PROGRAM = osilap
+
+all: $(PROGRAM)
+
+$(PROGRAM): $(OBJS)
+	$(FC) $(OBJS) $(LDFLAGS) $(LIBS) -o $(PROGRAM)
+
+clean:
+	rm -f *.o *~ $(PROGRAM)
+
+install: $(PROGRAM)
+	install -s $(PROGRAM) $(DEST)

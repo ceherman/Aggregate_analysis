@@ -1,0 +1,80 @@
+# -------------- solving condition -------------- #
+#  sfactor:         1.000000e-04
+#  initial alpha:   0.1
+#  alpha max loop:  5000
+#  alpha tol:       0.0001
+#  Newton max loop: 5000
+#  Newton tol:      1.000000e-08
+#  A_opt method:    0
+# --------------- TX information ---------------- #
+#  Data space:      log
+#  Data type:       T1
+#  (TXmin, TXmax, TXpoints)=(200, 100000, 50)
+# ------------------ input data ----------------- #
+#  Input file:      test.int
+#  Output basename: test_T1
+# ---------------- Compress data ---------------- #
+#  K1 original :    88
+#  K1 compress :    1
+# ------------- Calculation results ------------- #
+#  Alpha :          1.231215e-01
+#  Sigma :          7.260264e-01
+# ----------------------------------------- #
+
+# Distribution normalized coeff.: 0
+#            TX               I 
+ 2.00000000e+02            -nan
+ 2.27044516e+02            -nan
+ 2.57746061e+02            -nan
+ 2.92599148e+02            -nan
+ 3.32165159e+02            -nan
+ 3.77081389e+02            -nan
+ 4.28071307e+02            -nan
+ 4.85956213e+02            -nan
+ 5.51668466e+02            -nan
+ 6.26266498e+02            -nan
+ 7.10951870e+02            -nan
+ 8.07088615e+02            -nan
+ 9.16225219e+02            -nan
+ 1.04011956e+03            -nan
+ 1.18076721e+03            -nan
+ 1.34043359e+03            -nan
+ 1.52169048e+03            -nan
+ 1.72745739e+03            -nan
+ 1.96104864e+03            -nan
+ 2.22622669e+03            -nan
+ 2.52726280e+03            -nan
+ 2.86900580e+03            -nan
+ 3.25696016e+03            -nan
+ 3.69737472e+03            -nan
+ 4.19734326e+03            -nan
+ 4.76491884e+03            -nan
+ 5.40924346e+03            -nan
+ 6.14069531e+03            -nan
+ 6.97105597e+03            -nan
+ 7.91370014e+03            -nan
+ 8.98381108e+03            -nan
+ 1.01986252e+04            -nan
+ 1.15777096e+04            -nan
+ 1.31432773e+04            -nan
+ 1.49205452e+04            -nan
+ 1.69381398e+04            -nan
+ 1.92285588e+04            -nan
+ 2.18286941e+04            -nan
+ 2.47804264e+04            -nan
+ 2.81312995e+04            -nan
+ 3.19352864e+04            -nan
+ 3.62536582e+04            -nan
+ 4.11559714e+04            -nan
+ 4.67211880e+04            -nan
+ 5.30389475e+04            -nan
+ 6.02110108e+04            -nan
+ 6.83528990e+04            -nan
+ 7.75957543e+04            -nan
+ 8.80884523e+04            -nan
+ 1.00000000e+05            -nan
+
+
+
+# Baseline list
+#            -nan

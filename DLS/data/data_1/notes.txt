@@ -1,0 +1,5 @@
+These are HCCF samples in conjugation buffer
+
+The values in titles refer to concentrations (estimated via NanoDrop) in ug/ml
+
+104 degrees
